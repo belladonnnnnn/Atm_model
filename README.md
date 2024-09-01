@@ -1,6 +1,6 @@
-Mini ATM Project using C++
+Mini ATM Project using C++ 
 
-Functionality:
+Functionality of the project:
 This C++ project implements essential ATM functionalities:
 
 Check Balance: Users can view their account balance.
